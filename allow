@@ -32,6 +32,7 @@ nodejs.org
 argotunnel.com
 api.cloudflare.com
 update.argotunnel.com
+*.argotunnel.com
 
 # Tailscale
 tailscale.com
@@ -54,6 +55,7 @@ discordapp.com
 discordapp.net
 discord.media
 discordcdn.com
+*.discord.com
 
 # Immich and machine learning
 immich.app
