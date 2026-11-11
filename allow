@@ -55,7 +55,14 @@ discordapp.com
 discordapp.net
 discord.media
 discordcdn.com
+gateway.discord.gg
+gateway.discord.com
+gateway-us-east1-a.discord.gg
+gateway-us-east1-b.discord.gg
+gateway-us-east1-c.discord.gg
+gateway-us-east1-d.discord.gg
 *.discord.com
+*.discord.gg
 
 # Immich and machine learning
 immich.app
@@ -63,6 +70,7 @@ huggingface.co
 hf.co
 cdn-lfs.huggingface.co
 cas-bridge.xethub.hf.co
+version.immich.cloud
 
 # Google services and common CDN infrastructure
 google.com
